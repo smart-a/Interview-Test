@@ -1,0 +1,16 @@
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\bin\Debug\net6.0\TestDom.exe
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\bin\Debug\net6.0\TestDom.deps.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\bin\Debug\net6.0\TestDom.runtimeconfig.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\bin\Debug\net6.0\TestDom.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\bin\Debug\net6.0\TestDom.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.csproj.AssemblyReference.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.AssemblyInfoInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.AssemblyInfo.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.ImplicitNamespaceImports.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.csproj.CoreCompileInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\refint\TestDom.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.genruntimeconfig.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\ref\TestDom.dll

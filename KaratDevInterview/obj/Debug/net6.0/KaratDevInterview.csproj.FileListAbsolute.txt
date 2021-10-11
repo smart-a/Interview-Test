@@ -1,0 +1,16 @@
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\bin\Debug\net6.0\KaratDevInterview.exe
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\bin\Debug\net6.0\KaratDevInterview.deps.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\bin\Debug\net6.0\KaratDevInterview.runtimeconfig.json
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\bin\Debug\net6.0\KaratDevInterview.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\bin\Debug\net6.0\KaratDevInterview.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.csproj.AssemblyReference.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.AssemblyInfoInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.AssemblyInfo.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.ImplicitNamespaceImports.cs
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.csproj.CoreCompileInputs.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\refint\KaratDevInterview.dll
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.pdb
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\KaratDevInterview.genruntimeconfig.cache
+C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\KaratDevInterview\obj\Debug\net6.0\ref\KaratDevInterview.dll
