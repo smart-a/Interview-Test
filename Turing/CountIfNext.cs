@@ -15,8 +15,11 @@ namespace Turing
                     count++;
                 }
             }
-
+            
             return count;
         }
     }
 }
+
+// variable name
+// int char string bool double float byte

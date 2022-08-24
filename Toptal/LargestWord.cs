@@ -7,7 +7,7 @@ namespace Toptal
         public static int solution(string S)
         {
             var largeWord = 0;
-            foreach (var sent in S.Split(new char[] {'.', '?', '!'}))
+            foreach (var sent in S.Split('.', '?', '!'))
             {
                 var words = sent.Split(' ').Where(w => w.Length > 0).ToArray();
                 if (largeWord < words.Length)

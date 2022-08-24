@@ -51,6 +51,8 @@ namespace Turing
                 if(!dup.ContainsKey(nums[i]))
                     dup.Add(nums[i], nums.Count(a=>a==nums[i]));
             }
+            
+            
 
             var d = dup
                 .First(a => a.Value == 2);

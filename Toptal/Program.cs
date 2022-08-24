@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using Toptal.Test;
 
 namespace Toptal
@@ -72,10 +73,34 @@ namespace Toptal
             // }
             //
 
-            foreach (var v in OnlineCode.GetChange(5, 2.4))
-            {
-                Console.WriteLine(v);
-            }
+            // Console.WriteLine(CarsSpace.Solution(new int[]{4,4,2,4}, new int[]{5,5,2,5}));
+            
+             // Console.WriteLine(MaxProfitWithKTransactions
+             //     .Solution(new int[] {1, 25, 24, 23, 12, 36, 14, 40, 31, 41, 5}, 2));
+             
+             //ReverseWordInSentence.Solution("edjhfsd");
+
+             // var result = PairOfNumber.Solution(new int[] {8, 10, 2, 9, 7, 5}, 11);
+
+             // var count = 1;
+             // foreach (var v in Enumerable.Range(90-25, 26).ToArray())
+             // {
+             //     Console.WriteLine($"{count}. {v}: {(char) v}");
+             //     count++;
+             // }
+             var n = 6000600;
+             var week = n / (7 * 24 * 3600);
+             var day = week / (24 * 3600);
+             n = n % (24 * 3600);
+             int hour = n / 3600;
+             n %= 3600;
+             int minutes = n / 60 ;
+             n %= 60;
+             int seconds = n;
+
+             // Console.WriteLine($"{week}w{day}d{hour}h{minutes}m{seconds}s"); // HappyNumber.Solution( 20)
+
+             Console.WriteLine(PossibleChange.Solution(new int[]{9, 6, 5, 1}, 10));
         }
         
     }

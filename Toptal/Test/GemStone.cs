@@ -30,6 +30,8 @@ namespace Toptal.Test
                 myGemCount.Add(new GemModel{ Gem = p, Count = count });
             }
 
+           
+
             return myGemCount.Select(g => g.Count).ToArray();
         }
     }

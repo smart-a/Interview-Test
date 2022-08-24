@@ -7,7 +7,6 @@ C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\Tes
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.AssemblyInfoInputs.cache
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.AssemblyInfo.cs
-C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.ImplicitNamespaceImports.cs
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.csproj.CoreCompileInputs.cache
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\TestDom.dll
 C:\Users\SD-18\Desktop\My PC\Adesoye Abeeb\.NET Core Tutorial\Interview Test\TestDom\obj\Debug\net6.0\refint\TestDom.dll

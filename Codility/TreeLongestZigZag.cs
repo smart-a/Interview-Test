@@ -13,7 +13,7 @@
             {
                 while (true)
                 {
-                    if(T.L != null)
+                    // if(T.L != null)
                 }
             }
         }
